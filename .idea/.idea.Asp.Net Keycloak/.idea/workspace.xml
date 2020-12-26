@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="221e1997-1228-485d-ade2-c84968340be8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Asp.Net Keycloak/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Controllers/WeatherForecastController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/WeatherForecast.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/WeatherForecast.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +20,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebApplication/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/WebApplication/WeatherForecast.cs" />
         <option value="$PROJECT_DIR$/WebApplication/appsettings.json" />
         <option value="$PROJECT_DIR$/WebApplication/Startup.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Controllers/WeatherForecastController.cs" />
       </list>
     </option>
   </component>
@@ -42,6 +46,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -86,8 +96,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609011249711</updated>
-      <workItem from="1609011255531" duration="712000" />
+      <workItem from="1609011255531" duration="6498000" />
     </task>
+    <task id="LOCAL-00001" summary="Add base project">
+      <created>1609012031060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609012031060</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add base project">
+      <created>1609012138498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609012138498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,12 +122,34 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add base project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add base project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="748" y="264" key="FileChooserDialogImpl" timestamp="1609011277802">
       <screen x="0" y="0" width="1920" height="1041" />
     </state>
     <state x="748" y="264" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1041@0.0.1920.1041" timestamp="1609011277802" />
+    <state width="1878" height="275" key="GridCell.Tab.0.bottom" timestamp="1609020112037">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1878" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1041@0.0.1920.1041" timestamp="1609020112037" />
+    <state width="1878" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1041@1920.0.1920.1080" timestamp="1609016416188" />
+    <state width="1878" height="275" key="GridCell.Tab.0.center" timestamp="1609020112037">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1878" height="275" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1041@0.0.1920.1041" timestamp="1609020112037" />
+    <state width="1878" height="275" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1041@1920.0.1920.1080" timestamp="1609016416188" />
+    <state width="1878" height="275" key="GridCell.Tab.0.left" timestamp="1609020112037">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1878" height="275" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1041@0.0.1920.1041" timestamp="1609020112037" />
+    <state width="1878" height="275" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1041@1920.0.1920.1080" timestamp="1609016416188" />
+    <state width="1878" height="275" key="GridCell.Tab.0.right" timestamp="1609020112037">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1878" height="275" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1041@0.0.1920.1041" timestamp="1609020112037" />
+    <state width="1878" height="275" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1041@1920.0.1920.1080" timestamp="1609016416188" />
     <state x="560" y="255" key="Rider.ProjectTemplateDialog.Size" timestamp="1609011398097">
       <screen x="0" y="0" width="1920" height="1041" />
     </state>
@@ -111,6 +158,10 @@
       <screen x="0" y="0" width="1920" height="1041" />
     </state>
     <state x="469" y="155" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1041@0.0.1920.1041" timestamp="1609011268950" />
+    <state x="560" y="256" key="Vcs.Push.Dialog.v2" timestamp="1609019729061">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="560" y="256" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1041@0.0.1920.1041" timestamp="1609019729061" />
     <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1609011606014">
       <screen x="0" y="0" width="1920" height="1041" />
     </state>
